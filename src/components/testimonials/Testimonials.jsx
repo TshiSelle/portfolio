@@ -24,7 +24,7 @@ const Testimonials = () => {
           <div className='peer__avatar'>
             <img src={ME} alt='person1' />
           </div>
-          <h5 className='peer__name'>Bassel Rawda</h5>
+          <h5 className='peer__name'>Bill Windows</h5>
           <small className='peer__review'>
             Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get
             Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud
@@ -40,7 +40,7 @@ const Testimonials = () => {
           <div className='peer__avatar'>
             <img src={ME} alt='person1' />
           </div>
-          <h5 className='peer__name'>Bassel Rawda</h5>
+          <h5 className='peer__name'>Bill Windows</h5>
           <small className='peer__review'>
             Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get
             Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud
@@ -56,7 +56,7 @@ const Testimonials = () => {
           <div className='peer__avatar'>
             <img src={ME} alt='person1' />
           </div>
-          <h5 className='peer__name'>Bassel Rawda</h5>
+          <h5 className='peer__name'>Bill Windows</h5>
           <small className='peer__review'>
             Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get
             Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud
@@ -72,7 +72,7 @@ const Testimonials = () => {
           <div className='peer__avatar'>
             <img src={ME} alt='person1' />
           </div>
-          <h5 className='peer__name'>Bassel Rawda</h5>
+          <h5 className='peer__name'>Bill Windows</h5>
           <small className='peer__review'>
             Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get
             Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud Get Gud
