@@ -10,28 +10,29 @@ const Field = () => {
       <div className='container services__container'>
         <article className='service'>
           <div className='service__head'>
-            <h3>UI/UX Design</h3>
+            <h3>Game Development</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Modern User Interface</p>
+              <p>C# and C++ project DevOp</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>User-Friendly reactive components</p>
+              <p>2D Sprite Mechanism</p>
+            </li>
+
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Environment Physics Optimization</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Scalable Design</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Component Optimization</p>
+              <p>Memory Use Efficieny</p>
             </li>
           </ul>
         </article>
-        {/* END OF UI/UX DESIGN */}
+        {/* END OF Game Design */}
         <article className='service'>
           <div className='service__head'>
             <h3>Web Development</h3>
@@ -39,15 +40,15 @@ const Field = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Modern User Interface with straight forward functionality</p>
+              <p>PostgreSQL and NoSQL Dev</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>User-Friendly reactive components</p>
+              <p>Fullstack JavaScript Development</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Scalable Design</p>
+              <p>Traffic Control</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -55,31 +56,31 @@ const Field = () => {
             </li>
           </ul>
         </article>
-        {/* END OF WEB DEVELOPMENT*/}
+        {/* END OF WEB DEVELOPMENT */}
         <article className='service'>
           <div className='service__head'>
-            <h3>Content Creation</h3>
+            <h3>Computer Security</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Modern User Interface with straight forward functionality</p>
+              <p>Weak Link Checking</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>User-Friendly reactive components</p>
+              <p>Data Encryption With RSA</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Scalable Design</p>
+              <p>One Way Data Secuirty With SHA-512</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Component Optimization</p>
+              <p>Middleman Network Monitor</p>
             </li>
           </ul>
         </article>
-        {/* END OF CONTENT CREATION*/}
+        {/* END OF COMPUTER SECURITY */}
       </div>
     </section>
   );
