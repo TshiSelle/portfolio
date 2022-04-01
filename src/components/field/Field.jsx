@@ -72,7 +72,7 @@ const Field = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>One Way Data Secuirty With SHA-512</p>
+              <p>One Way Data Security With SHA-512</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />

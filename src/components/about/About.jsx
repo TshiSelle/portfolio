@@ -38,9 +38,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            I'm 21 Year old senior Computer Science student at Beirut Arab
-            University, finding fun in designing and implementing projects with
-            fruitful purposes. I EAT PROJECTS FOR BREAKFAST!!
+           I'm Software Engineer Intern at AstroLabs
           </p>
           <a href='#contact' className='btn btn-primary'>
             Let's Talk!!
