@@ -24,6 +24,7 @@ const Portfolio = () => {
           </div>
           <div className='portfolio__item-cta'>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/BlackJack'
               className='btn btn-primary'
               target='_blank'
@@ -31,6 +32,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/BlackJack/archive/refs/heads/main.zip'
               className='btn'
               target='_blank'
@@ -48,7 +50,8 @@ const Portfolio = () => {
             <small className='text-light'>Frontend Development</small>
           </div>
           <div className='portfolio__item-cta'>
-            <a
+            <a 
+              rel='noreferrer'
               href='https://github.com/TshiSelle/WebTemplate'
               className='btn btn-primary'
               target='_blank'
@@ -56,6 +59,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/WebTemplate/archive/refs/heads/main.zip'
               className='btn'
               target='_blank'
@@ -74,6 +78,7 @@ const Portfolio = () => {
           </div>
           <div className='portfolio__item-cta'>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/App-UI'
               className='btn btn-primary'
               target='_blank'
@@ -81,6 +86,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/App-UI/archive/refs/heads/main.zip'
               className='btn'
               target='_blank'
@@ -99,6 +105,7 @@ const Portfolio = () => {
           </div>
           <div className='portfolio__item-cta'>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/DiscordBot'
               className='btn btn-primary'
               target='_blank'
@@ -106,6 +113,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/DiscordBot/archive/refs/heads/main.zip'
               className='btn'
               target='_blank'
@@ -124,6 +132,7 @@ const Portfolio = () => {
           </div>
           <div className='portfolio__item-cta'>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/Scam-Killer'
               className='btn btn-primary'
               target='_blank'
@@ -131,6 +140,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/Scam-Killer/archive/refs/heads/main.zip'
               className='btn'
               target='_blank'
@@ -149,6 +159,7 @@ const Portfolio = () => {
           </div>
           <div className='portfolio__item-cta'>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/eirene'
               className='btn btn-primary'
               target='_blank'
@@ -156,6 +167,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/eirene/archive/refs/heads/main.zip'
               className='btn'
               target='_blank'
@@ -174,6 +186,7 @@ const Portfolio = () => {
           </div>
           <div className='portfolio__item-cta'>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/RSA'
               className='btn btn-primary'
               target='_blank'
@@ -181,6 +194,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
+              rel='noreferrer'
               href='https://github.com/TshiSelle/RSA/archive/refs/heads/master.zip'
               className='btn'
               target='_blank'
