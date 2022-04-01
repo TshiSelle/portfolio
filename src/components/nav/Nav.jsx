@@ -1,5 +1,5 @@
 import React from 'react';
-import { AiOutlineHome, AiOutlineUser } from 'react-icons/ai';
+import { AiOutlineUser } from 'react-icons/ai';
 import { BiBook, BiMessageDetail } from 'react-icons/bi';
 import { MdOutlineHomeRepairService } from 'react-icons/md';
 import { useState } from 'react';
@@ -10,13 +10,7 @@ const Nav = () => {
   return (
     <nav>
       <a
-        href='#'
-        onClick={() => setActiveNav('#')}
-        className={activeNav === '#' ? 'active' : ''}
-      >
-        <AiOutlineHome />
-      </a>
-      <a
+        rel='noreferrer'
         href='#about'
         onClick={() => setActiveNav('#about')}
         className={activeNav === '#about' ? 'active' : ''}
@@ -24,6 +18,7 @@ const Nav = () => {
         <AiOutlineUser />
       </a>
       <a
+        rel='noreferrer'
         href='#experience'
         onClick={() => setActiveNav('#experience')}
         className={activeNav === '#experience' ? 'active' : ''}
@@ -31,6 +26,7 @@ const Nav = () => {
         <BiBook />
       </a>
       <a
+        rel='noreferrer'
         href='#field'
         onClick={() => setActiveNav('#field')}
         className={activeNav === '#field' ? 'active' : ''}
@@ -38,6 +34,7 @@ const Nav = () => {
         <MdOutlineHomeRepairService />
       </a>
       <a
+        rel='noreferrer'
         href='#contact'
         onClick={() => setActiveNav('#contact')}
         className={activeNav === '#contact' ? 'active' : ''}

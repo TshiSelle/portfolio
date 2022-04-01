@@ -6,12 +6,13 @@ const HeaderSocials = () => {
   return (
     <div className='header__socials'>
       <a
+        rel='noreferrer'
         href='https://www.linkedin.com/in/omar-houssami-342315195/'
         target='_blank'
       >
         <BsLinkedin />
       </a>
-      <a href='https://github.com/TshiSelle' target='_blank'>
+      <a rel='noreferrer' href='https://github.com/TshiSelle' target='_blank'>
         <FaGithub />
       </a>
     </div>
