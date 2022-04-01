@@ -76,7 +76,7 @@ const Field = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Middleman Network Monitor</p>
+              <p>Middleman Network Monitoring</p>
             </li>
           </ul>
         </article>
