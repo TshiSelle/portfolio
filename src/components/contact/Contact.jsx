@@ -11,10 +11,10 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs.sendForm(
-      'YOUR_SERVICE_ID',
-      'YOUR_TEMPLATE_ID',
+      'service_v6z2k6n',
+      'template_ergm554',
       form.current,
-      'YOUR_USER_ID'
+      'fnbmlzT3T4un4KnqO'
     );
   };
   return (
@@ -45,7 +45,7 @@ const Contact = () => {
         </div>
 
         {/* END OF CONTACT OPTIONS */}
-        <form ref={form}>
+        <form ref={form} onSubmit={sendEmail}>
           <input
             type='text'
             name='name'
