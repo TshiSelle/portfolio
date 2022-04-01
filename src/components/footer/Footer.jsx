@@ -14,9 +14,9 @@ const Footer = () => {
           <a href='#'>Home</a>
           <a href='#about'>About</a>
           <a href='#experience'>Experience</a>
-          <a href='#'>Home</a>
           <a href='#field'>Field</a>
           <a href='#portfolio'>Portfolio</a>
+          <a href='#testimonials'>Testimonials</a>
           <a href='#contact'>Contact</a>
         </li>
       </ul>
