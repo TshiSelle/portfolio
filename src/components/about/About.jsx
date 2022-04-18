@@ -34,11 +34,14 @@ const About = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>7 Completed</small>
+              <small>3 Completed</small>
             </article>
           </div>
           <p>
-           I'm Software Engineer Intern at AstroLabs
+            Work driven, qualified and motivated software engineer, experienced
+            with Full stack web development using different stack technologies.
+            I am driven to continuously learn and improve myself and my
+            environment.
           </p>
           <a href='#contact' className='btn btn-primary'>
             Let's Talk!!
